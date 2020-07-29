@@ -13,6 +13,6 @@ This third part can be found from notebook part 9 to part 16
 
 There is a folder with all the different datasets used and a .zip with some plots. 
 
-The link to my presentations is: https://www.canva.com/design/DAEBURz2TFc/hsEb9IviAWm-uPkIeeF3kA/edit?category=tACFasDnyEQ
+The link to my presentation is: https://www.canva.com/design/DAEBURz2TFc/hsEb9IviAWm-uPkIeeF3kA/edit?category=tACFasDnyEQ
 
 If you have any questions or recomendations don't hesitate to contact me! 
