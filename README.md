@@ -1,7 +1,8 @@
 # Final-Project.-Happy-Data-
 Final Project Data Science course at allWomen 
 
-This is my Final Project for my Data Science course at allWomen
+This is my Final Project for my Data Science course at allWomen.
+
 My project has three parts, in the first part I analyze the datasets from the World Happiness Report from 2017 to 2020 to see the evolution of the happiness index in Europe and especially in Spain. This first part of the project is in the notebooks part 1 and 2. 
 
 The main features obtained from the WHR datasets are: Happines_score|GDP|Social_support|Life_exp_score|Freedom|Generosity|Gov_trust|Life_exp_age . In my second part of the project I check the correlation between the different variables from the data set and the Life Expectancy in the different countries. And I use four different Machine Learning models to predict the Life Expectancy. The models used for this predictions are: Multi Linear regression, Decision Tree regression, Random Forest regression and XGBOOST. This second part of the project is in the notebooks from part 3 to part 8. 
